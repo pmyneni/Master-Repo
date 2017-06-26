@@ -1,5 +1,16 @@
 a
+<<<<<<< HEAD
 b
 kdfhak
 g
 f
+=======
+-ajdg
+B
+c
+d
+e
+
+f
+D
+>>>>>>> dev
