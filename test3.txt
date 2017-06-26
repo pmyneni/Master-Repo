@@ -1,16 +1,6 @@
 a
-<<<<<<< HEAD
 b
-kdfhak
+v
+f
+f
 g
-f
-=======
--ajdg
-B
-c
-d
-e
-
-f
-D
->>>>>>> dev
